@@ -32,7 +32,7 @@ Resume-Analyser/
 ├── db.py
 ├── ai.py
 ├── templates/
-└── static/
+
 ```
 
 ---
