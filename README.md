@@ -48,10 +48,6 @@ python app.py
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots here)
-
 ---
 
 ## 👩‍💻 Author
